@@ -1,0 +1,25 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.heading {
+  color: #f0bb03;
+}
+.description {
+  color: #ffffff;
+}
+
+.button {
+  background-color: #ffffff;
+  height: 30px;
+  width: 100px;
+  color: #1e293b;
+  border-radius: 10px;
+}
